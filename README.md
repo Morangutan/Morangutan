@@ -7,7 +7,7 @@ Currently I'm a software engeneering student and also a freelancer mostly workin
 
 Skills: C# / Blazor / MAUI / Python / PHP / Laravel
 
-- 📫 for business inqueries: moneyorangutan@protonmail.com 
+- 📫 for business inqueries: info@morangutanmedia.nl
 - 😄 Pronouns: Lorem/Ipsum 
 
 
